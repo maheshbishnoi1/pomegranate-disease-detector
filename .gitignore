@@ -1,0 +1,18 @@
+# Ignore large data and model files
+Pomegranate Diseases Dataset/
+dataset/
+model/
+*.h5
+*.hdf5
+*.pkl
+*.zip
+*.npy
+
+# Python / Flask ignores
+__pycache__/
+*.pyc
+venv/
+env/
+.DS_Store
+.vscode/
+.idea/
